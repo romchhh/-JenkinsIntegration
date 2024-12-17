@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  test.cpp
+Z:\Unik\VS_projects\Новая папка\vs_mkr_test1\stringProcessor.h(20,23): warning C4267: return: преобразование из "size_t" в "const int32_t"; возможна потеря данных
+  (компиляция исходного файла "/test.cpp")
+  
+  test_repos.vcxproj -> Z:\Unik\VS_projects\Новая папка\vs_mkr_test1\x64\Debug\test_repos.exe
